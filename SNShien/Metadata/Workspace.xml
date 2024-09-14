@@ -2,8 +2,9 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{79358122-7d3f-4d83-9083-2f1731b6dba7}">
 		<property name="builtBanksOutputDirectory">
-			<value>../../../UnityProject/CountDownBeat/FmodAudioAssets</value>
+			<value>Build</value>
 		</property>
+		<property name="builtBanksEncryptionKey" />
 		<relationship name="masterEventFolder">
 			<destination>{cbba2a94-bf0f-4d00-9e01-762973ebb092}</destination>
 		</relationship>
