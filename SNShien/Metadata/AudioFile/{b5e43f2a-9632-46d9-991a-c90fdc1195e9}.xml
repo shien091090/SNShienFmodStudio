@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b5e43f2a-9632-46d9-991a-c90fdc1195e9}">
+		<property name="assetPath">
+			<value>BGM/nicolasdrweski__mario_boss.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>7.5306666666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d639933e-5007-4fa6-aabd-bfa00ea3fcce}</destination>
+		</relationship>
+	</object>
+</objects>

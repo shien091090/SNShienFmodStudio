@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5bb64a7a-eb35-41b0-b001-f0cfb377d600}">
+		<property name="assetPath">
+			<value>ActionSE/teleport.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.3248979591836734</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d639933e-5007-4fa6-aabd-bfa00ea3fcce}</destination>
+		</relationship>
+	</object>
+</objects>

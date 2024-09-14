@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{79358122-7d3f-4d83-9083-2f1731b6dba7}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../../UnityProject/CountDownBeat/FmodAudioAssets</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{cbba2a94-bf0f-4d00-9e01-762973ebb092}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{25c0d34e-b069-4dfe-8804-be0880d22da3}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{d794c572-bbee-47fb-8a8a-9c438c30bcbd}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{4a05a576-d796-43e1-ac57-4c3510aec447}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{e7453743-f5c8-41ea-9e84-dcb4d433fedd}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{a701d431-0443-4ffe-97bf-2f4277ff08bf}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{d639933e-5007-4fa6-aabd-bfa00ea3fcce}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{80f1e15e-0f96-450d-8458-c7fee08faba0}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{8b769351-e56e-4c19-9bcf-3f1c0d8ef280}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{b21c0938-b096-4ebd-a262-829eeb83dcc4}</destination>
+		</relationship>
+	</object>
+</objects>

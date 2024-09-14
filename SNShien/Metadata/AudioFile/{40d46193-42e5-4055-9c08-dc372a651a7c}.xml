@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{40d46193-42e5-4055-9c08-dc372a651a7c}">
+		<property name="assetPath">
+			<value>GameSE/congratulation_02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>192</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.2033333333333331</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d639933e-5007-4fa6-aabd-bfa00ea3fcce}</destination>
+		</relationship>
+	</object>
+</objects>

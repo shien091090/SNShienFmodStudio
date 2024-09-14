@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{ef3c822e-042c-48c9-8d2c-ed7ff7700c77}">
+		<property name="name">
+			<value>2023_FGJ_Project</value>
+		</property>
+		<relationship name="folder">
+			<destination>{cbba2a94-bf0f-4d00-9e01-762973ebb092}</destination>
+		</relationship>
+	</object>
+</objects>

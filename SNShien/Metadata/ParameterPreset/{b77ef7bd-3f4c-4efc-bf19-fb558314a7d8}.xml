@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{b77ef7bd-3f4c-4efc-bf19-fb558314a7d8}">
+		<property name="name">
+			<value>BGMFadeInTimes</value>
+		</property>
+		<relationship name="folder">
+			<destination>{4a05a576-d796-43e1-ac57-4c3510aec447}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{36d2a4d8-ea0e-4c64-a8b8-4188d0a0c2e6}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{36d2a4d8-ea0e-4c64-a8b8-4188d0a0c2e6}">
+		<property name="maximum">
+			<value>10</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
