@@ -5,9 +5,6 @@
 		<property name="name">
 			<value>2023_FGJ_Project</value>
 		</property>
-		<property name="isMasterBank">
-			<value>true</value>
-		</property>
 		<relationship name="folder">
 			<destination>{e7453743-f5c8-41ea-9e84-dcb4d433fedd}</destination>
 		</relationship>
